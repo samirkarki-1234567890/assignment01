@@ -1,5 +1,5 @@
 # assignment01
-mobile development first assignement
+mobile development first assignment
 ----------------------------------------------------------
 STEP 1: Download node.js from https://nodejs.org/en/download/ and install it by selecting everything to default
 
@@ -36,3 +36,8 @@ STEP 10: Run the app again using command:
         [press y when prompted] 
         Then 'w' to open the web version of the app
         or to open the app on your phone, press 'a' but before that you need to install the app 'expo go' on your phone
+---------------------------------------------------------------------------------------------------------------------------
+COMMON ISSUES:
+1. After dowloading node from the website, check version from cmd or download git bash from https://git-scm.com/downloads
+   then use git bash 
+2. after downloading expo go app, your phone and pc/mac must be connected to same wifi network.
