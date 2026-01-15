@@ -14,15 +14,18 @@ STEP 4: Then open the terminal in VS code(ctrl+`) and run the following command 
         npx create-expo-app@latest IncredibleTodoListApp
         NOTE: [use git bash if other command line is not working]
 
-STEP 5: 
+STEP 5: change directory to the new folder that you created using command:
+        cd IncredibleTodoListApp
 
-STEP 6: Follow the instructions to install the app 'expo go' on your phone 
-
-STEP 7: Run the app using the following command:
+STEP 6: Run the app using the following command:
         npx expo start
+        [press y when prompted] 
+        Then 'w' to open the web version of the app
+        or to open the app on your phone, press 'a' but before that you need to install the app 'expo go' on your phone
 
-STEP 8: Scan the QR code from the terminal with the expo go app on your phone  
+STEP 6: Scan the QR code from the terminal with the expo go app on your phone  
 
+STEP 7: Follow the instructions to install the app 'expo go' on your phone 
 
-
-
+STEP 8: Since We are not submitting the folder with node modules, we reset it which will remove unneccesary files using command:
+        run reset 
