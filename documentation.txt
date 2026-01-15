@@ -22,10 +22,17 @@ STEP 6: Run the app using the following command:
         [press y when prompted] 
         Then 'w' to open the web version of the app
         or to open the app on your phone, press 'a' but before that you need to install the app 'expo go' on your phone
+        [note: press CTRL+C to stop the server]
+        
+STEP 7: Scan the QR code from the terminal with the expo go app on your phone  
 
-STEP 6: Scan the QR code from the terminal with the expo go app on your phone  
+STEP 8: Follow the instructions to install the app 'expo go' on your phone 
 
-STEP 7: Follow the instructions to install the app 'expo go' on your phone 
+STEP 9: Since We are not submitting the folder with node modules, we reset it which will remove unneccesary files using command:
+        npm run reset-project 
 
-STEP 8: Since We are not submitting the folder with node modules, we reset it which will remove unneccesary files using command:
-        run reset 
+STEP 10: Run the app again using command:
+        npx expo start
+        [press y when prompted] 
+        Then 'w' to open the web version of the app
+        or to open the app on your phone, press 'a' but before that you need to install the app 'expo go' on your phone
